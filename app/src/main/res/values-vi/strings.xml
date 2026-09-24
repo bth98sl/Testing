@@ -1,0 +1,85 @@
+<resources>
+    <!-- App & General -->
+    <string name="app_name">Blink</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="continue_button">Tiếp tục</string>
+    <string name="get_started">Bắt đầu</string>
+    <string name="settings">Cài đặt</string>
+    <string name="loading_ai_filters">Đang tải bộ lọc AI...</string>
+
+    <!-- Onboarding Slides -->
+    <string name="slide1_title">Phong cách\nPhim Điện Ảnh</string>
+    <string name="slide1_badge">Phim 35mm • Nắng Ấm</string>
+    <string name="slide1_headline">Phim Analog 35mm</string>
+    <string name="slide1_desc">Vẻ đẹp phim 35mm vượt thời gian bên cửa sổ với ánh kim vàng ấm áp và vệt nắng tự nhiên.</string>
+
+    <string name="slide2_title">Làm Đẹp\nCùng AI</string>
+    <string name="slide2_badge">Tone Trong Trẻo • Mịn Da</string>
+    <string name="slide2_headline">Tone Màu Trong Trẻo</string>
+    <string name="slide2_desc">Chân dung sắc nét chuẩn studio với kết cấu da tự nhiên và cuốn hút.</string>
+
+    <string name="slide3_title">Góc Sáng\nStudio Nghệ Thuật</string>
+    <string name="slide3_badge">Ánh Sáng Studio • Bìa Tạp Chí</string>
+    <string name="slide3_headline">Thần Thái Bìa Tạp Chí</string>
+    <string name="slide3_desc">Pha trộn ánh sáng studio chuyên nghiệp để tạo nên dấu ấn cá nhân đỉnh cao.</string>
+
+    <!-- HomeScreen -->
+    <string name="get_pro">★ NÂNG CẤP PRO</string>
+    <string name="pro_active">★ PRO</string>
+    <string name="choose_photo">Chọn ảnh của bạn</string>
+    <string name="see_more">Xem thêm</string>
+    <string name="section_recent">Gần đây</string>
+    <string name="section_preset_styles">Phong cách mẫu</string>
+    <string name="badge_new">MỚI</string>
+    <string name="section_unsplash">Kho ảnh Unsplash</string>
+    <string name="default_user_name">Người dùng</string>
+
+    <!-- Paywall Screen -->
+    <string name="paywall_slide1_title">Ứng dụng Studio &amp; Ảnh #1</string>
+    <string name="paywall_slide1_subtitle">Hơn 6 triệu người dùng hài lòng</string>
+    <string name="paywall_slide2_title">Trình chỉnh sửa ảnh AI #1</string>
+    <string name="paywall_slide2_subtitle">Hơn 10 triệu ảnh đã tạo</string>
+    <string name="paywall_slide3_title">Bộ công cụ hình ảnh Pro 4K</string>
+    <string name="paywall_slide3_subtitle">Đánh giá 4.9 ★ trên Google Play</string>
+    <string name="enable_free_trial">Bật dùng thử miễn phí</string>
+    <string name="yearly_access">Gói theo năm</string>
+    <string name="yearly_trial_desc">Miễn phí 3 ngày, sau đó $29.99/năm</string>
+    <string name="yearly_no_trial_desc">Chỉ $29.99 mỗi năm</string>
+    <string name="yearly_price_per_week">$0.58</string>
+    <string name="weekly_access">Gói theo tuần</string>
+    <string name="weekly_desc">Thanh toán hàng tuần, hủy bất kỳ lúc nào</string>
+    <string name="weekly_price_per_week">$4.99</string>
+    <string name="per_week">mỗi tuần</string>
+    <string name="best_offer">Ưu đãi tốt nhất</string>
+    <string name="btn_continue">Tiếp tục</string>
+    <string name="terms_of_use">Điều khoản sử dụng</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="terms_toast">Gói đăng ký tự động gia hạn qua Google Play cho đến khi bạn hủy.</string>
+    <string name="privacy_toast">Ảnh cá nhân của bạn được xử lý an toàn trên thiết bị và không bao giờ bị chia sẻ.</string>
+
+    <!-- Permissions & Dialogs -->
+    <string name="need_permission">Cần cấp quyền truy cập để chọn ảnh</string>
+    <string name="permission_dialog_title">Yêu cầu quyền truy cập</string>
+
+    <!-- Photo Permission Rationale Dialog -->
+    <string name="rationale_title">Cần quyền truy cập ảnh</string>
+    <string name="rationale_description">Blink cần quyền truy cập vào thư viện ảnh của bạn để chọn ảnh và chỉnh sửa hình ảnh.</string>
+    <string name="rationale_confirm">Tiếp tục</string>
+    <string name="rationale_dismiss">Để sau</string>
+
+    <string name="edit_photo_title">Chỉnh sửa ảnh</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="tab_filters">Bộ lọc</string>
+    <string name="tab_adjust">Tùy chỉnh</string>
+    <string name="tab_crop">Cắt ảnh</string>
+    <string name="filter_original">Gốc</string>
+    <string name="filter_warm">Nắng ấm</string>
+    <string name="filter_cool">Lạnh</string>
+    <string name="filter_vintage">Cổ điển</string>
+    <string name="filter_mono">Đen trắng</string>
+    <string name="adjust_brightness">Độ sáng</string>
+    <string name="adjust_contrast">Độ tương phản</string>
+    <string name="adjust_saturation">Độ bão hòa</string>
+
+</resources>

@@ -1,0 +1,87 @@
+<resources>
+    <!-- App & General -->
+    <string name="app_name">Blink</string>
+    <string name="skip">تخطي</string>
+    <string name="continue_button">متابعة</string>
+    <string name="get_started">ابدأ الآن</string>
+    <string name="settings">الإعدادات</string>
+
+    <!-- Onboarding Slides -->
+    <string name="slide1_title">طابع\nسينمائي</string>
+    <string name="slide1_badge">أنالوج 35 مم • وهج دافئ</string>
+    <string name="slide1_headline">أنالوج 35 مم</string>
+    <string name="slide1_desc">جماليات فيلم 35 مم الخالدة بجانب النافذة مع وهج ذهبي دافئ وتأثيرات إضاءة طبيعية.</string>
+
+    <string name="slide2_title">تعديل ذكي\nبالذكاء الاصطناعي</string>
+    <string name="slide2_badge">نغمة نقية • بشرة طبيعية</string>
+    <string name="slide2_headline">نغمة نقية</string>
+    <string name="slide2_desc">صور شخصية فائقة الوضوح مع ملمس بشرة طبيعي ووضوح احترافي.</string>
+
+    <string name="slide3_title">إضاءة\nاستوديو فني</string>
+    <string name="slide3_badge">وهج الاستوديو • تحريري</string>
+    <string name="slide3_headline">طابع أغلفة المجلات</string>
+    <string name="slide3_desc">مزج إضاءة الاستوديو الاحترافية لإبراز مظهرك الخاص المماثل للمجلات.</string>
+
+    <!-- Splash Screen -->
+    <string name="loading_ai_filters">جاري تحميل مرشحات الذكاء الاصطناعي...</string>
+
+    <!-- HomeScreen -->
+    <string name="get_pro">★ احصل على PRO</string>
+    <string name="pro_active">★ PRO</string>
+    <string name="choose_photo">اختر صورتك</string>
+    <string name="see_more">رؤية المزيد</string>
+    <string name="section_recent">الأحدث</string>
+    <string name="section_preset_styles">الأنماط المسبقة</string>
+    <string name="badge_new">جديد</string>
+    <string name="section_unsplash">Unsplash</string>
+    <string name="default_user_name">مستخدم</string>
+
+    <!-- Paywall Screen -->
+    <string name="paywall_slide1_title">#1 استوديو الفن والصور</string>
+    <string name="paywall_slide1_subtitle">أكثر من 6 ملايين مستخدم سعيد</string>
+    <string name="paywall_slide2_title">#1 محرر الصور بالذكاء الاصطناعي</string>
+    <string name="paywall_slide2_subtitle">تم إنشاء أكثر من 10 ملايين صورة</string>
+
+    <string name="paywall_slide3_title">مجموعة visual Pro 4K</string>
+    <string name="paywall_slide3_subtitle">تقييم 4.9 ★ على Google Play</string>
+    <string name="enable_free_trial">تفعيل التجربة المجانية</string>
+    <string name="yearly_access">اشتراك سنوي</string>
+    <string name="yearly_trial_desc">3 أيام مجانًا، ثم $29.99 سنوياً</string>
+    <string name="yearly_no_trial_desc">فقط $29.99 سنوياً</string>
+    <string name="yearly_price_per_week">$0.58</string>
+    <string name="weekly_access">اشتراك أسبوعي</string>
+    <string name="weekly_desc">يُدفع أسبوعياً، يمكنك الإلغاء في أي وقت</string>
+    <string name="weekly_price_per_week">$4.99</string>
+    <string name="per_week">في الأسبوع</string>
+    <string name="best_offer">أفضل عرض</string>
+    <string name="btn_continue">متابعة</string>
+    <string name="terms_of_use">شروط الاستخدام</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="terms_toast">تتجدد الاشتراكات تلقائيًا عبر Google Play حتى يتم إلغاؤها.</string>
+    <string name="privacy_toast">يتم معالجة صورك الشخصية بأمان على الجهاز ولا يتم مشاركتها أبداً.</string>
+
+    <!-- Permissions & Dialogs -->
+    <string name="need_permission">يلزم الحصول على إذن الوصول لاختيار الصور</string>
+    <string name="permission_dialog_title">الإذن مطلوب</string>
+
+    <!-- Photo Permission Rationale Dialog -->
+    <string name="rationale_title">مطلوب الوصول إلى الصور</string>
+    <string name="rationale_description">يحتاج Blink إلى إذن للوصول إلى مكتبة الصور الخاصة بك لاختيار تحسين صورك وتعديلها.</string>
+    <string name="rationale_confirm">متابعة</string>
+    <string name="rationale_dismiss">ليس الآن</string>
+
+    <string name="edit_photo_title">تعديل الصورة</string>
+    <string name="btn_save">حفظ</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="tab_filters">مرشحات</string>
+    <string name="tab_adjust">ضبط</string>
+    <string name="tab_crop">قص</string>
+    <string name="filter_original">الأصلي</string>
+    <string name="filter_warm">دافئ</string>
+    <string name="filter_cool">بارد</string>
+    <string name="filter_vintage">كلاسيكي</string>
+    <string name="filter_mono">أبيض وأسود</string>
+    <string name="adjust_brightness">السطوع</string>
+    <string name="adjust_contrast">التباين</string>
+    <string name="adjust_saturation">التشبع</string>
+</resources>

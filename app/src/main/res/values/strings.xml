@@ -1,0 +1,84 @@
+<resources>
+    <!-- App & General -->
+    <string name="app_name">Blink</string>
+    <string name="skip">Skip</string>
+    <string name="continue_button">Continue</string>
+    <string name="get_started">Get Started</string>
+    <string name="settings">Settings</string>
+    <string name="loading_ai_filters">Loading AI filters...</string>
+
+    <!-- Onboarding Slides -->
+    <string name="slide1_title">Cinematic\nFilm Mood</string>
+    <string name="slide1_badge">35mm Analog • Warm Flare</string>
+    <string name="slide1_headline">35mm Analog</string>
+    <string name="slide1_desc">Timeless 35mm film aesthetic by the window with warm golden glow and natural light leaks.</string>
+
+    <string name="slide2_title">Magic AI\nRetouch</string>
+    <string name="slide2_badge">Clean Tone • Natural Skin</string>
+    <string name="slide2_headline">Clean Tone</string>
+    <string name="slide2_desc">Crystal-clear portraits with natural skin texture and captivating studio clarity.</string>
+
+    <string name="slide3_title">Artistic\nStudio Glow</string>
+    <string name="slide3_badge">Studio Glow • Editorial</string>
+    <string name="slide3_headline">Editorial Cover Vibe</string>
+    <string name="slide3_desc">Blend professional studio lighting to sculpt your signature magazine look.</string>
+
+    <string name="paywall_slide1_title">#1 Art &amp; Photo Studio</string>
+    <string name="paywall_slide1_subtitle">6M+ Happy users</string>
+    <string name="paywall_slide2_title">#1 AI Photo Editor</string>
+    <string name="paywall_slide2_subtitle">10M+ Photos generated</string>
+    <string name="paywall_slide3_title">Pro 4K Visual Suite</string>
+    <string name="paywall_slide3_subtitle">4.9 ★ Rating on Google Play</string>
+    <string name="enable_free_trial">Enable free trial</string>
+    <string name="yearly_access">Yearly access</string>
+    <string name="yearly_trial_desc">3 days free, then $29.99 per year</string>
+    <string name="yearly_no_trial_desc">Just $29.99 per year</string>
+    <string name="yearly_price_per_week">$0.58</string>
+    <string name="weekly_access">Weekly access</string>
+    <string name="weekly_desc">Billed weekly, cancel anytime</string>
+    <string name="weekly_price_per_week">$4.99</string>
+    <string name="per_week">per week</string>
+    <string name="best_offer">Best Offer</string>
+    <string name="btn_continue">Continue</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_toast">Subscriptions auto-renew through Google Play until cancelled.</string>
+    <string name="privacy_toast">Your personal photos are processed securely on-device and never shared.</string>
+
+    <!-- HomeScreen -->
+    <string name="get_pro">★ GET PRO</string>
+    <string name="pro_active">★ PRO</string>
+    <string name="choose_photo">Choose your photo</string>
+    <string name="see_more">See more</string>
+    <string name="section_recent">Recent</string>
+    <string name="section_preset_styles">Preset Styles</string>
+    <string name="badge_new">NEW</string>
+    <string name="section_unsplash">Unsplash</string>
+    <string name="default_user_name">User</string>
+
+    <!-- Permissions & Dialogs -->
+    <string name="need_permission">Access permission is required to select photos</string>
+    <string name="permission_dialog_title">Permission Required</string>
+
+    <!-- Photo Permission Rationale Dialog -->
+    <string name="rationale_title">Photo Access Required</string>
+    <string name="rationale_description">Blink needs permission to access your photo library to select and edit your photos.</string>
+    <string name="rationale_confirm">Continue</string>
+    <string name="rationale_dismiss">Not Now</string>
+
+    <string name="edit_photo_title">Edit Photo</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="tab_filters">Filters</string>
+    <string name="tab_adjust">Adjust</string>
+    <string name="tab_crop">Crop</string>
+    <string name="filter_original">Original</string>
+    <string name="filter_warm">Warm</string>
+    <string name="filter_cool">Cool</string>
+    <string name="filter_vintage">Vintage</string>
+    <string name="filter_mono">Mono</string>
+    <string name="adjust_brightness">Brightness</string>
+    <string name="adjust_contrast">Contrast</string>
+    <string name="adjust_saturation">Saturation</string>
+</resources>
+

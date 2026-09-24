@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667575072376",
+    "project_id": "planning-with-ai-74838",
+    "storage_bucket": "planning-with-ai-74838.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667575072376:android:08eb9c3a58ad8e76525f8d",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.config"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7YNNot5A9WYP009LPfe1O3VQWgqBNbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

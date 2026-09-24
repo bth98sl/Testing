@@ -1,0 +1,84 @@
+<resources>
+    <!-- App & General -->
+    <string name="app_name">Blink</string>
+    <string name="skip">건너뛰기</string>
+    <string name="continue_button">계속하기</string>
+    <string name="get_started">시작하기</string>
+    <string name="settings">설정</string>
+    <string name="loading_ai_filters">AI 필터 로딩 중...</string>
+
+    <!-- Onboarding Slides -->
+    <string name="slide1_title">시네마틱\n필름 무드</string>
+    <string name="slide1_badge">35mm 아날로그 • 웜 플레어</string>
+    <string name="slide1_headline">35mm 아날로그</string>
+    <string name="slide1_desc">창가에서 느끼는 따뜻한 골든 글루와 자연스러운 빛 번짐의 35mm 감성.</string>
+
+    <string name="slide2_title">매직 AI\n리터칭</string>
+    <string name="slide2_badge">클린 톤 • 자연스러운 피부</string>
+    <string name="slide2_headline">클린 톤</string>
+    <string name="slide2_desc">자연스러운 피부 결과 선명한 스튜디오 화질의 인물 사진.</string>
+
+    <string name="slide3_title">아티스틱\n스튜디오 글로우</string>
+    <string name="slide3_badge">스튜디오 글로우 • 에디토리얼</string>
+    <string name="slide3_headline">잡지 커버 감성</string>
+    <string name="slide3_desc">전문 스튜디오 조명을 조화시켜 연출하는 나만의 매거진 룩.</string>
+
+    <!-- HomeScreen -->
+    <string name="get_pro">★ PRO 받기</string>
+    <string name="pro_active">★ PRO</string>
+    <string name="choose_photo">사진 선택하기</string>
+    <string name="see_more">더보기</string>
+    <string name="section_recent">최근 항목</string>
+    <string name="section_preset_styles">프리셋 스타일</string>
+    <string name="badge_new">NEW</string>
+    <string name="section_unsplash">Unsplash</string>
+    <string name="default_user_name">사용자</string>
+
+    <!-- Paywall Screen -->
+    <string name="paywall_slide1_title">#1 아트 &amp; 포토 스튜디오</string>
+    <string name="paywall_slide1_subtitle">600만+ 만족한 사용자</string>
+    <string name="paywall_slide2_title">#1 AI 사진 편집기</string>
+    <string name="paywall_slide2_subtitle">1,000만+ 생성된 사진</string>
+    <string name="paywall_slide3_title">프로 4K 비주얼 수트</string>
+    <string name="paywall_slide3_subtitle">Google Play 평점 4.9 ★</string>
+    <string name="enable_free_trial">무료 체험 활성화</string>
+    <string name="yearly_access">연간 연간 이용권</string>
+    <string name="yearly_trial_desc">3일 무료 체험 후 연 $29.99</string>
+    <string name="yearly_no_trial_desc">연 $29.99</string>
+    <string name="yearly_price_per_week">$0.58</string>
+    <string name="weekly_access">주간 이용권</string>
+    <string name="weekly_desc">매주 청구되며 언제든지 취소 가능</string>
+    <string name="weekly_price_per_week">$4.99</string>
+    <string name="per_week">주당</string>
+    <string name="best_offer">최고의 혜택</string>
+    <string name="btn_continue">계속하기</string>
+    <string name="terms_of_use">이용약관</string>
+    <string name="privacy_policy">개인정보 처리방침</string>
+    <string name="terms_toast">구독은 취소할 때까지 Google Play를 통해 자동 갱신됩니다.</string>
+    <string name="privacy_toast">개인 사진은 기기 내에서 안전하게 처리되며 공유되지 않습니다.</string>
+
+    <!-- Permissions & Dialogs -->
+    <string name="need_permission">사진을 선택하려면 접근 권한이 필요합니다</string>
+    <string name="permission_dialog_title">권한 요청</string>
+
+    <!-- Photo Permission Rationale Dialog -->
+    <string name="rationale_title">사진 접근 권한 필요</string>
+    <string name="rationale_description">Blink에서 사진을 선택하고 보정 및 편집하려면 사진 보관함 접근 권한이 필요합니다.</string>
+    <string name="rationale_confirm">계속하기</string>
+    <string name="rationale_dismiss">나중에</string>
+
+    <string name="edit_photo_title">사진 편집</string>
+    <string name="btn_save">저장</string>
+    <string name="btn_cancel">취소</string>
+    <string name="tab_filters">필터</string>
+    <string name="tab_adjust">조절</string>
+    <string name="tab_crop">자르기</string>
+    <string name="filter_original">원본</string>
+    <string name="filter_warm">따뜻하게</string>
+    <string name="filter_cool">차갑게</string>
+    <string name="filter_vintage">빈티지</string>
+    <string name="filter_mono">모노</string>
+    <string name="adjust_brightness">밝기</string>
+    <string name="adjust_contrast">대비</string>
+    <string name="adjust_saturation">채도</string>
+</resources>

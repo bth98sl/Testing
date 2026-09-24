@@ -1,0 +1,4 @@
+*.hprof
+.idea/
+.gradle/
+build/
